@@ -56,6 +56,5 @@ local BASE_FOLDER = "" -- do not set this
 او 
 @lua_lua
 
-لمعرفه جديد عن البوت 👍
-
-{mahdi}(telegram.me./mahdib9)
+لمعرفه جديد عن البوت �
+ [@mahdib9](https://telegram.me/mahdib9)
