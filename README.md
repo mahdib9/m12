@@ -58,3 +58,4 @@ local BASE_FOLDER = "" -- do not set this
 
 لمعرفه جديد عن البوت 👍
 
+{mahdi}(telegram.me./mahdib9)
